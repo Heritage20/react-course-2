@@ -1,6 +1,6 @@
 # Playground Start
 
-This is the starter code for the playground project we use in part 2 of my React course. 
+This is the code for the playground project we use in part 2 of Mosh's React course. 
 
 ## Getting Started
 
@@ -12,7 +12,7 @@ To get started, follow these steps:
 
 ## About the Course
 
-This repository belongs to part 2 of my React course covering intermediate-level topics. 
+This is the part 2 of Mosh's React course covering intermediate-level topics. 
 
 - Fetching and updating data with React Query
 - All about reducers, context, and providers
